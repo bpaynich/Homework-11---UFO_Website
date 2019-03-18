@@ -1,7 +1,7 @@
-Bryan Paynich <br/>
+<h3>Bryan Paynich <br/>
 U of A Data Bootcamp <br/>
 Homework-11---Javascript <br/>
-3/18/2019 <br/>
+3/18/2019 <br/></h3>
 
 This homework was a demostration of Javascript fundamentals.   In this homework, there was a dataset that contained ufo sighting information.  This homework read in the data, and displayed the sighting information in an html table.  In addition, I built filter code that listened for changes in the datetime field.  When the submit button was clicked the table data was refreshed to display the selected date.   
 
